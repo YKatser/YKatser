@@ -1,5 +1,5 @@
 ## Hi there, I'm Iurii Katser
-I am a data scientist. My area of intrests is anomaly detection, technical diagnostics, time-series analysis, industrial data processing, predictive analytics.
+I am a lead data scientist, Ph.D. student, researcher and lecturer. My area of intrests is anomaly detection, technical diagnostics, time-series analysis, industrial data processing, predictive analytics.
 
 - 🔭 I’m currently working on my PhD thesis in Skoltech
 - 🌱 I’m currently learning MlOps (e.g., deployment, CD/CI, monitoring)
