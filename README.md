@@ -1,7 +1,7 @@
 ## Hi there, I'm Iurii Katser
 I am a lead data scientist, researcher and lecturer. My area of intrests is anomaly detection, technical diagnostics, time-series analysis, industrial data processing, predictive analytics.
 
-- 🚀 I’m currently working on my startup [waico.tech](https://waico.tech)
+<!-- - 🚀 I’m currently working on my startup [waico.tech](https://waico.tech)-->
 - 🔭 I have finished my PhD thesis in Skoltech
 - 🌱 I’m currently learning MlOps (e.g., deployment, CD/CI, monitoring)
 - 😄 Pronouns: he/him
