@@ -1,9 +1,10 @@
 ## Hi there, I'm Iurii Katser
 I am a lead data scientist, researcher and lecturer. My area of intrests is anomaly detection, technical diagnostics, time-series analysis, industrial data processing, predictive analytics.
 
-<!-- - 🚀 I’m currently working on my startup [waico.tech](https://waico.tech)-->
-- 🔭 I have finished my PhD thesis in Skoltech
-- 🌱 I’m currently learning MlOps (e.g., deployment, CD/CI, monitoring)
+- 🔩 I have previously worked at various industrial companies, now I am Lead DS at [conundrum.ai](https://conundrum.ai)
+- 🚀 I’m a co-founder of [waico.tech](https://waico.tech) startup
+- 🔭 I have finished my PhD thesis (*Neural Network Based Algorithms of the Anomaly Detection in the Industrial Data Processing*) at [Skoltech](https://www.skoltech.ru) university
+- 🌱 I’m currently learning dev/MlOps (e.g., deployment, CD/CI, monitoring) and process optimization
 - 😄 Pronouns: he/him
 - ⚡ Too serious to have a fun fact
 
