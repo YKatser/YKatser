@@ -1,9 +1,9 @@
 ## Hi there, I'm Iurii Katser
 I’m currently the Head of Data Science for Mining at [conundrum.ai](https://conundrum.ai). My professional and research interests focus on applying machine learning to industrial settings, with an emphasis on anomaly detection, technical diagnostics, predictive maintenance, and process control.
 
-- 🔩 With over 7 years of experience across diverse industrial sectors (energy, metallurgy, mining), I specialize in developing ML-driven predictive maintenance (PdM) and optimization solutions.
+- 🔩 With over 8 years of experience across diverse industrial sectors (energy, metallurgy, mining, oil&gas), I specialize in developing ML-driven predictive maintenance (PdM) and optimization solutions.
 - 🔭 I lead an R&D team focused on advancing industrial AI, with a background in academic research, having completed a PhD thesis on (*Neural Network Based Algorithms of the Anomaly Detection in the Industrial Data Processing*).
-- 🚀 For 5 years, I was a co-founder of [waico](https://waico.ru), a startup dedicated to enhancing industrial processes through machine learning.
+- 🚀 For 5 years, I was a co-founder of [waico](https://github.com/waico), a startup dedicated to enhancing industrial processes through machine learning.
 - 🌱 Currently, I’m expanding my expertise in process optimization, apc, mpc to strengthen my technical skillset.
 - ⚡ My mission is to blend my engineering and ML background to help industrial companies achieve greater operational efficiency and increase revenue.
 
